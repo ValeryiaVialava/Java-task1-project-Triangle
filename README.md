@@ -1,4 +1,4 @@
-TASK 
+#### TASK
 W klasie Traingle:
 
 - stwórz konstruktor o trzech parametrach
@@ -15,6 +15,8 @@ W klasie Main:
 - Jeśli nie można stworzyć trójkąta, to wyświetl tą informację i zakończ program
 
 - Dopóki użytkownik nie wciśnie wyjście, to menu pokazuje się znów po wykonanej operacji.
+
+---
 
 ```
 Podaj dlugosc boku a: 3,5
