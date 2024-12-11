@@ -1,4 +1,4 @@
-TASK
+TASK 
 W klasie Traingle:
 
 - stwórz konstruktor o trzech parametrach
