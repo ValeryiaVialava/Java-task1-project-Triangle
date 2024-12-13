@@ -1,20 +1,20 @@
-#### TASK
-W klasie Traingle:
+#### **TASK**
 
-- stwórz konstruktor o trzech parametrach
-- napisz metody liczące obwód (wzór Herona), pole i sprawdzające jego typu to jest trójkąt ze względu na boki.
+In the `Triangle` class:
 
-W klasie Main:
+- Create a constructor with three parameters.  
+- Write methods to calculate the perimeter (using Heron's formula), the area, and to check the type of triangle based on its sides.  
 
-- W metodzie main, zapytaj użytkownika o długości boków.
-- Jeśli z podanym boków można stworzyć trójkąt (spełniają warunek trójkąta):    
+In the `Main` class:
 
-- stwórz go
-- wyświetl menu  np. (1. pole, 2.obwód, 3. typ, 4 .wyjście). 
+- In the `main` method, ask the user for the lengths of the sides.  
+- If a triangle can be formed with the given sides (they satisfy the triangle inequality):  
+  - Create the triangle.  
+  - Display a menu, e.g., (1. Area, 2. Perimeter, 3. Type, 4. Exit).  
 
-- Jeśli nie można stworzyć trójkąta, to wyświetl tą informację i zakończ program
+- If a triangle cannot be formed, display this information and terminate the program.  
 
-- Dopóki użytkownik nie wciśnie wyjście, to menu pokazuje się znów po wykonanej operacji.
+- As long as the user does not choose "Exit," the menu should reappear after the selected operation is performed.
 
 ---
 
